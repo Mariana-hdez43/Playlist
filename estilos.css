@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color:wheat;
+}
+
+h3, p{
+    color:white;
+    .centrado {
+        text-align: center;
+    }
+}
+
+h1{
+    color:rgb(44, 240, 214);
+    text-align: center;
+} 
+
+
+img {
+    width: 700px;
+    height: 700;
+}
+
+
+small{
+    color:white;
+}
